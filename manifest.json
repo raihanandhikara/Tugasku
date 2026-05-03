@@ -1,0 +1,22 @@
+{
+  "name": "Tugasku",
+  "short_name": "Tugasku",
+  "description": "To-do list modern untuk anak muda",
+  "start_url": "/Tugasku/todo.html",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#a78bfa",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/a78bfa/ffffff?text=T",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/a78bfa/ffffff?text=T",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
